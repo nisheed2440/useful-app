@@ -25,7 +25,7 @@ In order to run the application, type in the following
 npm run serve
 ```
 
-This should spin up the webpack dev server based on the configuration in `webpack.config.js`. The app can now be viewed @ `http://localhost:9000/webpack-dev-server`.
+This should spin up the webpack dev server based on the configuration in `webpack.config.js`. The app can now be viewed @ `http://localhost:9000/webpack-dev-server/` for live reload on code changes, or just `http://localhost:9000`. If you are going to be making changes to `webpack.config.js`, please make sure to exit the running build using `Ctrl + c`.
 
 Once the application is rendered you will notice that there are two `style` tags being generated in the `head` tag. One comes from the imported `useful-module` and the other from the `index.scss` overrides.
 
