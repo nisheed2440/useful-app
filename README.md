@@ -1,5 +1,8 @@
 # Part 2 - Useful App
 
+**Note: Please go through [Part 1](https://github.com/nisheed2440/useful-module) before you continue**
+------
+
 This app describes a sample situation where you import a global module, over ride its styles and text content and display it based on your needs.
 
 To begin with clone this repository. Then `cd` into the folder where you have cloned it. Then run
