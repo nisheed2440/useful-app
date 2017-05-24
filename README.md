@@ -1,4 +1,4 @@
-#Part 2 - Useful App
+# Part 2 - Useful App
 
 This app describes a sample situation where you import a global module, over ride its styles and text content and display it based on your needs.
 
