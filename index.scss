@@ -1,0 +1,15 @@
+@import "~useful-module/styles/_um-mixins";
+
+$card-overrides: (
+    card-bg-color: #2196F3,
+    card-font-color: #FFFFFF,
+    actions-link-color:#FFFFFF,
+    actions-link-hover-color: rgba(255,255,255,0.5),
+    content-font-family: #{'Playfair Display', serif},
+    content-font-size: 24px,
+    title-font-family: #{'Roboto', sans-serif},
+    title-font-size: 16px,
+    actions-link-font-family: #{'Roboto', sans-serif}
+);
+
+@include um-card($card-overrides);
