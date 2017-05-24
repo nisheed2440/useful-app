@@ -2,7 +2,7 @@
 
 This app describes a sample situation where you import a global module, over ride its styles and text content and display it based on your needs.
 
-To begin with clone this repository. Then `cd` into the folder where have cloned it. Then run
+To begin with clone this repository. Then `cd` into the folder where you have cloned it. Then run
 
 ```bash
 npm link useful-module
